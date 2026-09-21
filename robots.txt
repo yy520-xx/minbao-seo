@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yy520-xx.github.io/minbao-seo/sitemap.xml
